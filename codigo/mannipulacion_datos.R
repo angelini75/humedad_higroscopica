@@ -17,3 +17,5 @@ ggplot(data = millas) +
 # graficar mis datos
 ggplot(data = datos) +
   geom_point(mapping = aes(x = seca, y = hh))
+
+# meterle pata
