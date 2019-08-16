@@ -18,4 +18,4 @@ ggplot(data = millas) +
 ggplot(data = datos) +
   geom_point(mapping = aes(x = seca, y = hh))
 
-# meterle pata
+
